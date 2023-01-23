@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<theme name="Monaki" screenscaling="2" uiscaling="1">
+<theme name="Gruvbox" screenscaling="2" uiscaling="1">
     <authors>
-        <author name="eL-Falso" url="https://github.com/el-falso/" />
+        <author name="JG03dev" url="https://github.com/JG03dev" />
     </authors>
     <fonts>
         <font id="default" font="Aseprite" />

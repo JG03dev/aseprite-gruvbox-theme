@@ -1,13 +1,13 @@
 {
-  "name": "monaki-theme",
-  "displayName": "Monaki Theme",
-  "description": "Theme for Aseprite using the Monokai palette",
+  "name": "gruvbox-theme",
+  "displayName": "Gruvbox Theme",
+  "description": "Theme for Aseprite using the Gruvbox palette",
   "version": "1.5",
-  "author": { "name": "eL-Falso", "email": "test@test.com", "url": "https://github.com/el-falso/" },
+  "author": { "name": "JG03dev", "email": "test@test.com", "url": "https://github.com/JG03dev" },
   "contributors": [
     {}
   ],
-  "publisher": "el-falso",
+  "publisher": "JG03-dev",
   "license": "CC-BY-4.0",
   "categories": [
     "Themes"
